@@ -1,0 +1,20 @@
+{
+    "name": "ShirayuriMeshibe.Editor.Utils",
+    "rootNamespace": "ShirayuriMeshibe.EditorUtils",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:68ea233497f01c74a8e646be2dfab2cb",
+        "GUID:8485c8613ec65684193a1cd9789edc49"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

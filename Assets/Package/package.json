@@ -1,0 +1,11 @@
+{
+    "name": "com.shirayuri-meshibe.unused-assets-finder",
+    "displayName": "Unused Assets Finder",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "description": "シーンから未使用なアセットの検索など",
+    "license": "MIT",
+    "dependencies": {
+        "com.cysharp.unitask": "2.5.4"
+    }
+}
